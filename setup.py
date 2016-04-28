@@ -1,0 +1,6 @@
+from setuptools import setup
+
+setup(name='hello',
+        version='0.1',
+        packages=['hello'],
+        zip_safe=False)
